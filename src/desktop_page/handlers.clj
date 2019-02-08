@@ -5,7 +5,7 @@
      ))
 
    (defn hello-world []
-  (println "Hello World"))
+  (println "welcome to the desktop page"))
 (hello-world)
 
 
